@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>DragonzLandBot</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DragonzLand\DragonzLand.cs" />
+    <None Remove="DragonzLand\DragonzLandApi.cs" />
+    <None Remove="DragonzLand\DragonzLandBot.cs" />
+    <None Remove="Program.cs" />
+    <None Remove="Tools\Log.cs" />
+    <None Remove="Tools\Tools.cs" />
+  </ItemGroup>
+
+</Project>

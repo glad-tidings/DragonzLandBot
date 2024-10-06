@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DragonzLandBotCS", "DragonzLandBotCS.csproj", "{AD49C679-CBD9-4461-984A-56B559278A44}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "DragonzLandBotVB", "DragonzLandBotVB.vbproj", "{98C81072-A37F-4D2A-AE81-43472A7C5A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD49C679-CBD9-4461-984A-56B559278A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD49C679-CBD9-4461-984A-56B559278A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD49C679-CBD9-4461-984A-56B559278A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD49C679-CBD9-4461-984A-56B559278A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C81072-A37F-4D2A-AE81-43472A7C5A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C81072-A37F-4D2A-AE81-43472A7C5A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C81072-A37F-4D2A-AE81-43472A7C5A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C81072-A37F-4D2A-AE81-43472A7C5A67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {387F06A5-A7E6-476C-8B23-7EDD37512F71}
+	EndGlobalSection
+EndGlobal
