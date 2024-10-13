@@ -7,7 +7,6 @@ DragonzLandBot Auto Farm
 | Multithreading            | ✅        |
 | Auto Claim Task           | ✅        |
 | Auto Tap                  | ✅        |
-| Auto Hold Coins           | ✅        |
 
 ## Settings
 open project in visual studio and in program.cs find
