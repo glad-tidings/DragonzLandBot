@@ -25,6 +25,6 @@ DragonzLandQueries.Add(new DragonzLandQuery() { Index = 0, Name = "Account 1", A
 DragonzLandQueries.Add(new DragonzLandQuery() { Index = 1, Name = "Account 2", Auth = "query_id of account 2" });
 DragonzLandQueries.Add(new DragonzLandQuery() { Index = 2, Name = "Account 3", Auth = "query_id of account 3" });
 ```
-and build or start project
+and build or start project ([Get Telegram MiniGame Query ID using Chrome](https://youtu.be/r0Ulqev-9M4))
 
 ![](http://visit.parselecom.com/Api/Visit/18/CF3476)
