@@ -12,7 +12,7 @@ I am not responsible for your account. Please consider the potential risks befor
 | Auto Tap                  | ✅        |
 
 ## Settings
-open project in visual studio and in program.cs find
+open project in visual studio ([Download Visual Studio Code](https://code.visualstudio.com/download)) and in program.cs find
 ```c#
 DragonzLandQueries.Add(new DragonzLandQuery() { Index = 0, Name = "Account 1", Auth = "query_id" });
 DragonzLandQueries.Add(new DragonzLandQuery() { Index = 1, Name = "Account 2", Auth = "query_id" });
