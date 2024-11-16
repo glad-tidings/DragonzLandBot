@@ -1,6 +1,9 @@
 # DragonzLandBot
 DragonzLandBot Auto Farm
 
+## ⚠️⚠️New Version⚠️⚠️
+[New Version](https://github.com/glad-tidings/DragonzLandBot-New)
+
 ## ⚠️Warning
 I am not responsible for your account. Please consider the potential risks before using this bot.
 
